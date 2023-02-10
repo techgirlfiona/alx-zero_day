@@ -1,1 +1,2 @@
-insert git pull
+##!/bin/bash
+git pull
